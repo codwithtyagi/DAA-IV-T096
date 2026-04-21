@@ -1,0 +1,23 @@
+8
+Delhi
+Mumbai
+Chennai
+Kolkata
+Pune
+Jaipur
+Hyderabad
+Bangalore
+13
+Delhi Mumbai 1400 1200
+Delhi Kolkata 1500 1300
+Delhi Jaipur 280 250
+Delhi Hyderabad 1550 1350
+Mumbai Pune 150 120
+Mumbai Jaipur 1150 1000
+Mumbai Hyderabad 710 650
+Chennai Kolkata 1670 1400
+Chennai Hyderabad 630 550
+Chennai Bangalore 350 300
+Kolkata Hyderabad 1490 1200
+Pune Bangalore 840 750
+Hyderabad Bangalore 570 500

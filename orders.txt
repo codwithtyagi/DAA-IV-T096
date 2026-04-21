@@ -1,0 +1,18 @@
+==========================================
+       Delivery Orders Report
+==========================================
+Total Orders: 10
+
+ID     Name            Pri      Weight   Value    Src          Dst          Deadline   Status    
+--------------------------------------------------------------------------------------------------
+107    Appliances      2        15       2000     Delhi        Bangalore    20         Pending   
+106    Books           5        3        200      Pune         Chennai      8          Shipped   
+105    Clothing        4        6        600      Jaipur       Bangalore    12         Pending   
+108    Cosmetics       3        4        350      Mumbai       Kolkata      7          Pending   
+101    Electronics     1        5        800      Delhi        Mumbai       10         Pending   
+103    Furniture       2        20       1500     Delhi        Chennai      15         Pending   
+102    Groceries       3        8        300      Mumbai       Pune         5          Pending   
+104    Medicines       1        2        400      Kolkata      Hyderabad    3          Urgent    
+110    Spices          2        3        250      Chennai      Delhi        6          Pending   
+109    Toys            4        7        450      Hyderabad    Jaipur       10         Processing
+==========================================
